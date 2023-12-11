@@ -1,13 +1,25 @@
 section .row > div{
-    height: 30px;
+    height: 40px;
 }
 /* .border{
     border: 1px solid red;
 } */
+
+body{
+    background-image: url(../img/FgfKbn7VsAIATIM.jpg-large.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .blue{
     background-color:#0088c7ff;
 }
 .black{
     background-color: black;
+}
+.yellow{
+    background-color: #ffcc96ff;
+}
+.white{
+    background-color: white;
 }
 
