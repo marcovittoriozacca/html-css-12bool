@@ -1,0 +1,13 @@
+section .row > div{
+    height: 30px;
+}
+/* .border{
+    border: 1px solid red;
+} */
+.blue{
+    background-color:#0088c7ff;
+}
+.black{
+    background-color: black;
+}
+
